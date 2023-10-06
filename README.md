@@ -35,10 +35,15 @@ CREATE TABLE sal_log (
 );
 ```
 ### Create employee table
-![image](https://github.com/BharathCSEIOT/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/122793480/f3e744fb-7606-46cb-8a75-89f67070a0f1)
+
+![image](https://github.com/gururamu08/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/118707009/5dd9658a-f2f3-431d-8a4e-d9aea4ba16b4)
+
 
 ### Create salary_log table
-![image](https://github.com/BharathCSEIOT/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/122793480/e784d2f0-1b29-40c0-ac08-854fec0c3c3d)
+
+![image](https://github.com/gururamu08/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/118707009/b43a5b21-32d9-4a17-ac7d-ae7d1ce4abbb)
+
+
 
 ### PLSQL Trigger code
 ```
@@ -66,7 +71,9 @@ SELECT * FROM sal_log;
 
 ```
 ### Output:
-![image](https://github.com/BharathCSEIOT/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/122793480/51e5e56e-b792-4612-88e7-235dde93af95)
+
+![image](https://github.com/gururamu08/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/118707009/5ee616bf-f010-45be-a2c6-ef6bb4c25213)
+
 
 ### Result:
 The program has been implemented successfully.
